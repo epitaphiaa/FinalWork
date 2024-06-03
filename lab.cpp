@@ -3,10 +3,8 @@
 #include<Windows.h>
 
 int main() {
-    int a;
-    int b;
-    int c;
-    int d;
+    int a1, b1, c1, d1;
+
     int summa;
 
     printf("Введите 4 целых числа: ");//ввод чисел
